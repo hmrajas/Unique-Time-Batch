@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.wso2.extension.siddhi.window.uniquetimebatch.UniqueTimeBatchWindowTestCase" time="48.271" tests="7" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="/home/rajjaz/Documents/jdk1.7.0_79/jre/lib/amd64"/>
+    <property name="java.vm.version" value="24.79-b02"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="/home/rajjaz/Documents/CEP/uniquewindow/org.wso2.extension.siddhi.window.uniquetimebatch"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=":"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="/home/rajjaz/Documents/CEP/uniquewindow/org.wso2.extension.siddhi.window.uniquetimebatch"/>
+    <property name="java.runtime.version" value="1.7.0_79-b15"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="/home/rajjaz/Documents/jdk1.7.0_79/jre/lib/endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="os.name" value="Linux"/>
+    <property name="classworlds.conf" value="/home/rajjaz/Documents/apache-maven-3.3.3/bin/m2.conf"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/home/rajjaz/Documents/idea-IC-141.1010.3/bin::/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="51.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="3.13.0-92-generic"/>
+    <property name="user.home" value="/home/rajjaz"/>
+    <property name="user.timezone" value="Asia/Colombo"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.specification.version" value="1.7"/>
+    <property name="user.name" value="rajjaz"/>
+    <property name="java.class.path" value="/home/rajjaz/Documents/apache-maven-3.3.3/boot/plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.7"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="/home/rajjaz/Documents/jdk1.7.0_79/jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.7.0_79"/>
+    <property name="java.ext.dirs" value="/home/rajjaz/Documents/jdk1.7.0_79/jre/lib/ext:/usr/java/packages/lib/ext"/>
+    <property name="securerandom.source" value="file:/dev/./urandom"/>
+    <property name="sun.boot.class.path" value="/home/rajjaz/Documents/jdk1.7.0_79/jre/lib/resources.jar:/home/rajjaz/Documents/jdk1.7.0_79/jre/lib/rt.jar:/home/rajjaz/Documents/jdk1.7.0_79/jre/lib/sunrsasign.jar:/home/rajjaz/Documents/jdk1.7.0_79/jre/lib/jsse.jar:/home/rajjaz/Documents/jdk1.7.0_79/jre/lib/jce.jar:/home/rajjaz/Documents/jdk1.7.0_79/jre/lib/charsets.jar:/home/rajjaz/Documents/jdk1.7.0_79/jre/lib/jfr.jar:/home/rajjaz/Documents/jdk1.7.0_79/jre/classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="/home/rajjaz/Documents/apache-maven-3.3.3"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="gnome"/>
+    <property name="sun.cpu.isalist" value=""/>
+  </properties>
+  <testcase name="timeWindowBatchTest4" classname="org.wso2.extension.siddhi.window.uniquetimebatch.UniqueTimeBatchWindowTestCase" time="4.531"/>
+  <testcase name="timeWindowBatchTest5" classname="org.wso2.extension.siddhi.window.uniquetimebatch.UniqueTimeBatchWindowTestCase" time="2.167"/>
+  <testcase name="timeWindowBatchTest6" classname="org.wso2.extension.siddhi.window.uniquetimebatch.UniqueTimeBatchWindowTestCase" time="2.52"/>
+  <testcase name="timeWindowBatchTest7" classname="org.wso2.extension.siddhi.window.uniquetimebatch.UniqueTimeBatchWindowTestCase" time="27.542"/>
+  <testcase name="timeWindowBatchTest2" classname="org.wso2.extension.siddhi.window.uniquetimebatch.UniqueTimeBatchWindowTestCase" time="4.216"/>
+  <testcase name="timeWindowBatchTest3" classname="org.wso2.extension.siddhi.window.uniquetimebatch.UniqueTimeBatchWindowTestCase" time="4.227"/>
+  <testcase name="timeWindowBatchTest1" classname="org.wso2.extension.siddhi.window.uniquetimebatch.UniqueTimeBatchWindowTestCase" time="3.013"/>
+</testsuite>
